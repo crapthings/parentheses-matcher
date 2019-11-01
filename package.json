@@ -1,0 +1,9 @@
+{
+  "name": "@crapthings/parentheses-matcher",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "crapthings",
+  "main": "index.js",
+  "license": "MIT"
+}
